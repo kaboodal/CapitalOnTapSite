@@ -1,1 +1,0 @@
-Upload all files to your hosting root directory. Replace YOUR_AFFILIATE_LINK in HTMLs with your actual link.
