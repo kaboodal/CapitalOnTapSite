@@ -1,1 +1,0 @@
-Upload these files to your hosting. Replace YOUR_AFFILIATE_LINK with your real Capital on Tap link.
